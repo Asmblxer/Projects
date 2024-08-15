@@ -1,1 +1,1 @@
-This repo contains my draft projects
+# This repo contains my draft projects and ideas.
